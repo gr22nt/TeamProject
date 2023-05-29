@@ -2,4 +2,4 @@
 
 Developed with Unreal Engine 5
 
-Simple Shootinggame
+Simple Shooting game
